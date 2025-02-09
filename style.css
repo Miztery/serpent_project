@@ -1,3 +1,10 @@
+/* Committing and pushing to git
+ git init
+ git add .
+ git commit -am "messagehere"
+ git remote add origin REPOSITORYLINKHERE
+ git push origin main
+ */
 body {
     background-color: whitesmoke;
   }
