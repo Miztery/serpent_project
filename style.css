@@ -1,0 +1,17 @@
+body {
+    background-color: whitesmoke;
+  }
+
+.container{
+  width: 80%;
+  height: 700px;
+  margin: 0 auto;
+  border: 10px solid var(--clr-dark);
+}
+
+.container{
+  background-color: rgb(205, 214, 166);
+}
+.group1{
+  background-color: rgb(194, 16, 16);
+}
