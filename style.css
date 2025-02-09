@@ -3,7 +3,7 @@
  git add .
  git commit -am "messagehere"
  git remote add origin REPOSITORYLINKHERE
- git push origin main
+ git push origin master
  */
 body {
     background-color: whitesmoke;
