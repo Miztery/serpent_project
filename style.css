@@ -16,9 +16,13 @@ body {
   border: 10px solid var(--clr-dark);
 }
 
-.container{
-  background-color: rgb(205, 214, 166);
-}
 .group1{
   background-color: rgb(194, 16, 16);
+}
+
+.container{
+  background-color: rgb(8, 132, 248);
+}
+.sidepanel{
+  background-color: rgb(206, 86, 17);
 }
